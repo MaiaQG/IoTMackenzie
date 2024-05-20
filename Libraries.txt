@@ -1,0 +1,4 @@
+Libraries:
+ArduinoJson
+PH4502C-Sensor
+PubSubClient
