@@ -1,4 +1,4 @@
-![image](https://github.com/MaiaQG/IoTMackenzie/assets/78659159/8fddc793-3018-4cfd-9a55-4c0f7e05080b)# IoTMackenzie
+
 Trabalho de Monitoramento da qualidade da água IoT - UNIVERSIDADE PRESBITERIANA MACKENZIE
 
 A água é o elemento mais importante para maioria das dos processos humanos relacionados ao dia a dia, utilizamos a água não só para hidratação, como também para agricultura, limpeza e diversos processos profissionais como produção de alguns tipos de medicamento na biomedicina. A ideia deste projeto é desenvolver um sistema de monitoramento da água, onde temos 3 parâmetros principais, PH, temperatura e umidade.
