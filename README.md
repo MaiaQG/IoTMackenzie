@@ -14,5 +14,12 @@ Objetivo principal é medir o PH, a temperatura da água e a umidade do solo env
 5- Caso a conexão MQTT seja perdida, ele se reconecta automaticamente.
 6- Caso deseje atualizar os dados da tabela, basta selecionar o botão que ele faz a consulta dos últimos dados da tabela.
 
+Materiais utilizados : 
+1- Protoboard
+2- Jumers
+3- nodeMCU
+4- Arduino
+5- Sensor de PH e temperatura
+6- Sensor de umidade
 Diagrama: 
 ![image](https://github.com/MaiaQG/IoTMackenzie/assets/78659159/763a2595-f508-4863-bd0b-c47bf0cf0741)
